@@ -1,0 +1,8 @@
+{
+  "name": "forager",
+  "private": true,
+  "description": "An open-world honeybee film and game in a single 49 KiB WebGL2 page — no assets, everything procedural.",
+  "type": "module",
+  "scripts": { "build": "node build.mjs", "start": "./run.sh" },
+  "devDependencies": { "esbuild": "^0.21.5" }
+}
