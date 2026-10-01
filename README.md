@@ -1,11 +1,11 @@
-# FORAGER
+# FORAGER — a 64k honeybee film and game
 
 **One honeybee, one summer day, one meadow — seen the way she sees it.**
 
 An open-world film and game about a worker honeybee (*Apis mellifera*), built entirely from code in raw WebGL2.
 No images, no 3D models, no audio samples: terrain, grass, flowers, insects, birds, hive, comb, sky, music,
-sound effects and story are all generated at runtime. The whole thing ships as a single **49 KiB** HTML file,
-in the spirit of the 90s 64k demoscene.
+sound effects and story are all generated at runtime. The whole thing ships as a single **49.5 KiB** HTML file
+(`dist/index.html`, 50,699 bytes — inside the 64k demoscene limit), in the spirit of the 90s 64k demoscene.
 
 ![Title over the brood comb](docs/01-title.jpg)
 
